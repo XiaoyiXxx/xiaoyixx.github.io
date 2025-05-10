@@ -23,7 +23,7 @@ My research interests focus on dynamic graph representation learning, including 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper on Graph Neural ODE is accepted in [ICML2025](https://icml.cc/)
+- *2025.05*: &nbsp;🎉🎉 One paper on ControlSynth Graph NeuralODE is accepted in [ICML2025](https://icml.cc/)
 - *2025.01*: &nbsp;🎉🎉 One paper on infectious disease prediction based on spatiotemporal graph neural networks is accepted in [Plos Computational Biology](https://journals.plos.org/ploscompbiol/)
 
 # 📝 Publications 
