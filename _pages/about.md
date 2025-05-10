@@ -56,8 +56,9 @@ Xiaoyi Wang, Zhen Jin
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - 2028.6(now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student. 
+- *2022.09 - 2024.06*, School of Mathematics and Statistics, Shanxi University. MS. Student.
+- *2018.09 - 2022.06*, School of Applied Sciences, Taiyuan University of Science and Technology. Undergrad. Student.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
