@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaoyi Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/touxiang.jpg"
   bio              : "Shanxi University"
   location         : "Taiyuan, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/wwwwxxxyyyy"
   google_plus      :
   keybase          :
   instagram        :
