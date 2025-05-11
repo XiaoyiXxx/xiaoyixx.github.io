@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a PhD student (2024-) in Computer Science and Technology at Shanxi University, supervised by Prof. Zhiqiang Wang. Before that, I received my B.S. degree from Taiyuan University of Science and Technology in 2022, majoring in Information and Computing Sciences.
+I am now a PhD student (2024-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Zhiqiang Wang](https://cs.sxu.edu.cn/faculty/associate_professor/4760/index.htm). Before that, I received my B.S. degree from Taiyuan University of Science and Technology in 2022, majoring in Information and Computing Sciences.
 
 My research interests focus on dynamic graph representation learning, including graph neural ODE, etc. I am also interested in AI for Science, such as infectious disease prediction based on spatiotemporal graph neural networks. If you are interested in discussing or collaborating with me, please feel free to contact me via [email](wwwxxyi@163.com).
 
