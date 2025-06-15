@@ -53,6 +53,7 @@ Xiaoyi Wang, Zhen Jin
 
 
 # 🎖 Honors and Awards
+- *2025.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2024.06* The Third Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023. 
 
