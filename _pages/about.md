@@ -25,8 +25,8 @@ My research interests focus on dynamic graph representation learning, including 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 We attended the China Computer Federation Artificial Intelligence Conference(CCFAI2025) in Kunming, China.
 - *2025.06*: &nbsp;🎉🎉 We attended the first China Graph Machine Learning Conference 2025 in Beijing, China.
-- *2025.05*: &nbsp;🎉🎉 One paper on ControlSynth Graph NeuralODE is accepted in [ICML2025](https://icml.cc/) <font color=red> (CCF A, poster,26.9%/ 机器学习三大顶会之一) </font>
-- *2025.01*: &nbsp;🎉🎉 One paper on infectious disease prediction based on spatiotemporal graph neural networks is accepted in [Plos Computational Biology](https://journals.plos.org/ploscompbiol/) <font color=red> (CCF B, SCI 2区) </font>
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted in [ICML2025](https://icml.cc/) <font color=red> (CCF A, poster,26.9%/ 机器学习三大顶会之一) </font>
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted in [Plos Computational Biology](https://journals.plos.org/ploscompbiol/) <font color=red> (CCF B, SCI 2区) </font>
 
 # 📝 Publications 
 
