@@ -61,7 +61,6 @@ Xiaoyi Wang, Zhen Jin
 # 📖 Educations
 - *2024.09 - 2028.6(now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student. 
 - *2022.09 - 2024.06*, School of Mathematics and Statistics, Shanxi University. MS. Student.
-- *2018.09 - 2022.06*, School of Applied Sciences, Taiyuan University of Science and Technology. Undergrad. Student.
 
 # 💬 Invited Talks
 - None
