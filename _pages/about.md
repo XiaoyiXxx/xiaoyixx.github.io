@@ -41,7 +41,7 @@ Zhiqiang Wang, Xiaoyi Wang, Jianqing Liang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos CB</div><img src='images/PCB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos CB</div><img src='images/PCB1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-region infectious disease prediction modeling based on spatio-temporal graph neural network and the dynamic model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012738)
