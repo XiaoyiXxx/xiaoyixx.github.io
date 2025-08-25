@@ -33,7 +33,7 @@ My research interests focus on dynamic graph representation learning, including 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025Poster.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CSG-ODE: ControlSynth Graph ODE For Modeling Complex Evolution of Dynamic Graphs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CSG-ODE: ControlSynth Graph ODE For Modeling Complex Evolution of Dynamic Graphs](https://icml.cc/virtual/2025/poster/46309)
 
 Zhiqiang Wang, Xiaoyi Wang, Jianqing Liang
 
