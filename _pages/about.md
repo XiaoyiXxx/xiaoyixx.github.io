@@ -31,7 +31,8 @@ My research interests focus on dynamic graph representation learning, including 
 
 # 📝 Publications 
 **X+ means submission is in progress**
-ICML2026+, TEEE TKDE+
+
+<font color=red> ICML2026+, TEEE TKDE+ </font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025Poster.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
