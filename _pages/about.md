@@ -26,8 +26,8 @@ My research interests focus on dynamic graph representation learning, including 
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted in [Frontiers of Computer Science](https://journal.hep.com.cn/fcs/EN/home) <font color=red> (CCF B, SCI 2区) </font>
 - *2025.08*: &nbsp;🎉🎉 We attended the China Computer Federation Artificial Intelligence Conference(CCFAI2025) in Kunming, China.
 - *2025.06*: &nbsp;🎉🎉 We attended the first China Graph Machine Learning Conference 2025 in Beijing, China.
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted in [ICML2025](https://icml.cc/)
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted in [Plos Computational Biology](https://journals.plos.org/ploscompbiol/) 
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted in [ICML2025](https://icml.cc/) <font color=red> (CCF A, poster,26.9%/ 机器学习三大顶会之一) </font>
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted in [Plos Computational Biology](https://journals.plos.org/ploscompbiol/) <font color=red> (CCF B, SCI 2区) </font>
 
 # 📝 Publications 
 **X+ means submission is in progress**
